@@ -93,6 +93,11 @@ an extension manual or something else.
 
 .. _doc-type-tutorial:
 
+Guide
+-----
+
+Guides are designed to be an **understanding-oriented** resource that provide an overview of a feature, tool or process. They familiarize the reader with a specific topic from a broad view or higher level. Guides are a good reference tool that a reader can refer to as needed, and can link out to more task-oriented resources such as Tutorials.
+
 Tutorial
 --------
 
